@@ -1,0 +1,25 @@
+Lexeme		Linha	Coluna	Valor	Tree	indice
+
+TK_ident	 0	 14	 5	 638	 28
+TK_main	 0	 0	 -	 0	 33
+TK_aparen	 0	 4	 -	 -2	 34
+TK_fparen	 0	 5	 -	 -2	 35
+TK_achave	 0	 6	 -	 3	 36
+TK_if	 0	 7	 -	 4	 37
+TK_aparen	 0	 9	 -	 -2	 38
+TK_const	 0	 10	 5	 50	 39
+TK_fparen	 0	 11	 -	 -2	 40
+TK_achave	 0	 12	 -	 55	 41
+TK_APar	 0	 13	 -	 -2	 42
+TK_igual	 0	 15	 -	 53	 43
+TK_const	 0	 16	 5	 637	 44
+TK_fparen	 0	 17	 -	 -2	 45
+TK_ptvirg	 0	 18	 -	 -2	 46
+TK_fchave	 0	 19	 -	 52	 47
+TK_ptvirg	 0	 20	 -	 -2	 48
+TK_return	 0	 21	 -	 -2	 49
+TK_aparen	 0	 26	 -	 -2	 50
+TK_const	 0	 27	 5	 8	 51
+TK_fparen	 0	 28	 -	 -2	 52
+TK_ptvirg	 0	 29	 -	 -2	 53
+TK_fchave	 0	 30	 -	 11	 54

@@ -396,7 +396,7 @@ int main(int argc, char *argv[]){
                         push(&s, ";");
                         push(&s, "E");
                         push(&s, ";");
-                        push(&s, "C");
+                        push(&s, "E");
                         push(&s, "(");
                         push(&s, "for");
 
@@ -1219,7 +1219,9 @@ int main(int argc, char *argv[]){
 
                         }
                 }
-            }preorder(&arv);
+            }
+            printf("\n Arvore Sintatica Abstrata\n");
+            preorder(&arv);
             for (i=0;i<20;i++)
                 imprimirNivel(&arvN, i);
         }//parse correto
