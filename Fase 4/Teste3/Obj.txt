@@ -1,0 +1,9 @@
+lit,0,0
+sto,0,3
+lod,0,3
+jpc,0,8
+lit,0,6
+sto,0,4
+lod,0,4
+jmp,0,3
+opr,0,0

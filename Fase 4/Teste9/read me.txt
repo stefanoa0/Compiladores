@@ -1,0 +1,2 @@
+neste exemplo o corpo do while e o corpo do if não são executados, 
+pois se não entra no corpo do if não entra no corpo do while

@@ -1,0 +1,1 @@
+neste exemplo o corpo do while e o corpo do if são executados

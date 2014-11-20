@@ -1,0 +1,2 @@
+neste exemplo o corpo do while é executado, 
+assim permanece em loop infinito

@@ -1,0 +1,1 @@
+neste exemplo o corpo de ambos os while's são executados
